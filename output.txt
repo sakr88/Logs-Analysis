@@ -1,0 +1,14 @@
+### What are the most popular three articles of all time? ###
+  -->  479121  views
+candidate-is-jerk  -->  338647  views
+bears-love-berries  -->  253801  views
+
+### Who are the most popular article authors of all time? ###
+Markoff Chaney  -->  84557  views
+Rudolf von Treppenwitz  -->  423457  views
+Ursula La Multa  -->  507594  views
+Anonymous Contributor  -->  170098  views
+
+### On which days did more than 1% of requests lead to errors ###
+2016-07-17  -->  2.26 % errors
+
